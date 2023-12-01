@@ -15,3 +15,13 @@ Como output, como mínimo, se visualizará por pantalla la suma de los dígitos 
 Valor que introduce el usuario: 11: 1+4+7+10+13+16+19+22+25+28+31=176
 
 Utiliza arrays para solucionarlo.
+
+## Dibujar matriz
+Crear una matriz de 5 filas y n columnas (se pide al usuario).
+Rellenarlo con números aleatorios entre 0 y 10.
+Mostrar por pantalla los valores de la matriz tabulados en filas y columnas.
+
+## Ubicación, edades y nombres
+Se quiere crear una aplicación sobre las edades de los estudiantes de la clase
+de 1ero de Daw/Dam, tomando como referencia la ubicación de la fila y la columna que le corresponde (pensemos en crear matriz con la misma ubicación de clase)
+Una vez obtenido las edades se muestra por pantalla las edades del alumno con mayor edad, y del menor.
