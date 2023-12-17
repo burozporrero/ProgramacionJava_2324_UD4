@@ -45,6 +45,8 @@ El programa mostrará las sumas parciales de filas y columnas igual que si de un
 
 ![sumatorio](images/sumatorio.png)
 
+[Solución](solucionesPropuestosClase/SumaFilasColumnas.java)
+
 ## Dibujar matriz
 Crear una matriz de 5 filas y n columnas (se pide al usuario).
 Rellenarlo con números aleatorios entre 0 y 10.
