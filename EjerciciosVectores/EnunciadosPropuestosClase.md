@@ -52,9 +52,12 @@ El programa mostrará las sumas parciales de filas y columnas igual que si de un
 Crear una matriz de 5 filas y n columnas (se pide al usuario).
 Rellenarlo con números aleatorios entre 0 y 10.
 Mostrar por pantalla los valores de la matriz tabulados en filas y columnas.
+
 [Solución](solucionesPropuestosClase/DibujarMatriz.java)
 
 ## Ubicación, edades y nombres
 Se quiere crear una aplicación sobre las edades de los estudiantes de la clase
 de 1ero de Daw/Dam, tomando como referencia la ubicación de la fila y la columna que le corresponde (pensemos en crear matriz con la misma ubicación de clase)
 Una vez obtenido las edades se muestra por pantalla las edades del alumno con mayor edad, y del menor.
+
+[Solución](solucionesPropuestosClase/UbicacionesEdadesNombres.java)
